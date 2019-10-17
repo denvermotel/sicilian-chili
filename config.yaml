@@ -21,6 +21,12 @@ params:
         accent2: '#5052b5'
         accent3: '#b74e91'
         bg: '#312450'
+    rosso:
+      sass:
+        accent1: '#b11a21'
+        accent2: '#e0474c'
+        accent3: '#7ab8d6'
+        bg: '#f1f0ee'
 menu:
   main:
     - identifier: '1'

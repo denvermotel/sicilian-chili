@@ -3,6 +3,12 @@ baseURL: /
 params:
   palette: blue
   palettes:
+   rosso:
+      sass:
+        accent1: '#b11a21'
+        accent2: '#e0474c'
+        accent3: '#7ab8d6'
+        bg: '#f1f0ee'
     blue:
       sass:
         accent1: '#4167a6'
@@ -11,22 +17,17 @@ params:
         bg: '#253149'
     green:
       sass:
-        accent1: '#2e9692'
-        accent2: '#3aa4ca'
-        accent3: '#b84d50'
-        bg: '#20313d'
+        accent1: '#b11a21'
+        accent2: '#e0474c'
+        accent3: '#7ab8d6'
+        bg: '#f1f0ee'
     purple:
       sass:
         accent1: '#5e42a6'
         accent2: '#5052b5'
         accent3: '#b74e91'
         bg: '#312450'
-    rosso:
-      sass:
-        accent1: '#b11a21'
-        accent2: '#e0474c'
-        accent3: '#7ab8d6'
-        bg: '#f1f0ee'
+   
 menu:
   main:
     - identifier: '1'

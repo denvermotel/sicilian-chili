@@ -27,7 +27,7 @@ sections:
     component: intro.html
     section_id: intro
     subtitle: "Lo “Studio Genna & Associati” è una associazione tra Professionisti nata a Marsala nel 1997 su iniziativa dei suoi fondatori attivi già dagli anni ’80.\r\n\nLa missione dello Studio Genna & Associati risponde alle esigenze delle aziende che chiedono oggi al consulente una specifica competenza nei vari settori strategici della vita aziendale."
-    title: Hyperspace
+    title: Out of Space
     type: intro
   - background_style: style2
     component: spotlights.html

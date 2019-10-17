@@ -1,25 +1,33 @@
-title: Hyperspace
+title: Studio Genna & Associati
 baseURL: /
 params:
-  palette: blue
+  palette: purple
   palettes:
     blue:
       sass:
-        bg: '#253149'
         accent1: '#4167a6'
         accent2: '#3f8eb3'
         accent3: '#4ca07e'
+        bg: '#253149'
     green:
       sass:
-        bg: '#20313d'
         accent1: '#2e9692'
         accent2: '#3aa4ca'
         accent3: '#b84d50'
+        bg: '#20313d'
     purple:
       sass:
-        bg: '#312450'
         accent1: '#5e42a6'
         accent2: '#5052b5'
         accent3: '#b74e91'
+        bg: '#312450'
+menu:
+  main:
+    - identifier: '1'
+      name: Uno
+      url: 'https://www.google.it/search?&q=italia+1'
+    - identifier: '2'
+      name: Due
+      url: 'https://www.google.it/search?&q=canele+2+marsala'
 disableKinds:
   - RSS

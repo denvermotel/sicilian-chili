@@ -1,7 +1,7 @@
-landing_style: style1-alt
+landing_style: style2-alt
 alt_style: alt
-copyright: '&copy; Hyperspace. All rights reserved.'
+copyright: '&copy; Studio Genna & Associati. All rights reserved.'
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Made with Stackbit
     url: 'https://www.stackbit.com'
-    new_window: true

@@ -12,6 +12,9 @@ sidebar:
       title: I nostri servizi
       url: '#two'
     - is_primary: false
+      title: Sedi
+      url: '#sedi'
+    - is_primary: false
       title: Contatti
       url: '#three'
 sections:
@@ -23,9 +26,7 @@ sections:
     background_style: style1
     component: intro.html
     section_id: intro
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+    subtitle: "Lo “Studio Genna & Associati” è una associazione tra Professionisti nata a Marsala nel 1997 su iniziativa dei suoi fondatori attivi già dagli anni ’80.\r\n\nLa missione dello Studio Genna & Associati risponde alle esigenze delle aziende che chiedono oggi al consulente una specifica competenza nei vari settori strategici della vita aziendale."
     title: Hyperspace
     type: intro
   - background_style: style2
@@ -78,6 +79,12 @@ sections:
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
     title: What we do
+    type: features
+  - background_style: style3
+    component: features.html
+    section_id: sedi
+    subtitle: Sede Marsala
+    title: Sedi
     type: features
   - background_style: style1
     component: contact.html
